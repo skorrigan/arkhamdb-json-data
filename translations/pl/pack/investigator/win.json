@@ -1,13 +1,13 @@
 [
     {
         "code": "60301",
-        "flavor": "\"I can top that.\"",
+        "flavor": "\"Mogę to zrobić lepiej.\"",
         "name": "Winifred Habbamock",
-        "subname": "The Aviatrix",
-        "text": "[free] If 2 different non-weakness cards you control are committed to this skill test: Draw 1 card. (Limit once per test.)\n[elder_sign] effect: +1. After this test ends, for every 2 points you succeeded by, return a card you committed to this test to your hand.",
-        "traits": "Criminal.",
-        "back_flavor": "Winifred - Weethao as her parents know her, Wini to her friends - was one of the smartest kids in her reservation school. However, her reckless attitude and lack of respect for authority meant she often got herself into trouble. The course of her life changed forever when she found an old biplane in a farmer's garage and decided to \"take it out for a spin.\" The owner, a former pilot in the Great War, was awestruck by her natural talent and offered to teach her what he knew. Now Wini is know as the \"woman without fear,\" showing off her skills in barnstormers all across the country. That nickname would be tested when, during one of her shows, she spotted a creature she could scarcely describe: a thing with leathery wings and a single, mutated, pus-filled eye.",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Anything You Can Do, Better; Arrogance; 1 random basic weakness."
+        "subname": "Pilotka",
+        "text": "[free] Jeśli do tego testu umiejętności zostały przeznaczone 2 różne kontrolowane przez ciebie karty niebędące osłabieniami: dobierz 1 kartę. (Limit raz na test.)\nEfekt [elder_sign]: +1. Po tym, jak ten test się zakończy, za każde 2 punkty, o które test zakończył się sukcesem, cofnij na twoją rękę 1 kartę, którą przeznaczyłeś do testu.",
+        "traits": "Przestępca.",
+        "back_flavor": "Winifred - dla rodziców Weethao, dla przyjaciół Wini - była jednym z najmądrzejszych dzieci w szkole. Jednak jej lekkomyślne zachowanie i brak szacunku dla władzy (Galakta zwaliła tłumaczenie lulz) sprawiały, że często wpadała w kłopoty. Jej życie zmieniło się na zawsze, gdy w garażu pewnego farmera znalazła stary dwupłatowiec i postanowiła \"na chwilę go pożyczyć.\" Właściciel samolotu, pilot z czasów Wielkiej Wojny, był zachwycony jej naturalnym talentem i zaproponował, że nauczy ją wszystkiego, co sam umie. Teraz Wini znana jest jako \"Nieustraszona\" i podróżuje po całym kraju, popisując się swoimi umiejętnościami. Prawdziwość jej pseudonimu została poddana próbie, gdy podczas jednego z występów zauważyła istotę, którą trudno jej było nawet opisać: stwora ze skórzanymi skrzydłami i zmutowanym, wypełnionym ropą okiem.",
+        "back_text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Łotra ([rogue]) o poziomie 0-5, karty neutralne o poziomie 0-5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Cokolwiek umiesz, umiem lepiej; Arogancja; 1 losowe podstawowe osłabienie."
     },
     {
         "code": "60302",
